@@ -122,4 +122,3 @@ const showResult = (phrase, result) => {
 
 operation(showResult.bind(this,'adding'), 'ADD', 1,2,3,4,5); 
 operation(showResult.bind(this,'subtracting'), 'SUBTRACT', 1, 10, 15, 20);
-
